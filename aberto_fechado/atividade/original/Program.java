@@ -1,10 +1,9 @@
 // package console;
-package  aberto_fechado.atividade.original;
+package aberto_fechado.atividade.original;
 
 
 import java.util.*;
 // import modelo.*;
-// import aberto_fechado.atividade.original.*;
 
 
 public class Program {

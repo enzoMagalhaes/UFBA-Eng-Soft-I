@@ -1,11 +1,5 @@
-// package console;
 package aberto_fechado.atividade.refactored;
-
-
 import java.util.*;
-// import modelo.*;
-// import aberto_fechado.atividade.refactored.*;
-
 
 public class Program {
 
