@@ -1,6 +1,6 @@
 
 
-    Responsabilidade Unica
+# Responsabilidade Unica
 
         toda classe deve ter um e apenas um proposito,
         a classe não deve ser cheia de funcionalidades
@@ -26,7 +26,7 @@
                 print_sum(){}        
 
 
-    Aberto/Fechado
+# Aberto/Fechado
 
         classes e funcoes devem ser abertas para extensão, mas
         fechadas para modificação
@@ -88,7 +88,7 @@
               criar uma nova classe que implementa esse shape (extendendo),
               sem precisar modificar o codigo de AreasCalculator (modificando).
 
-    Segregacao de interfaces 
+# Segregacao de interfaces 
 
         interfaces não devem forcar classes a implementar
         metodos que elas não vão usar. Interfaces largas
@@ -128,7 +128,7 @@
 
                 volume(){//can implement}
 
-    Inversao de dependencia
+# Inversao de dependencia
 
         Componentes nao devem depender de classes concretas,
         mas sim de abstracoes (interfaces)
@@ -165,9 +165,7 @@
               e nao de uma de suas implementacoes (classe concreta)
 
 
-EXTRA:
-
-    Substituicao de Liskov
+# EXTRA: Substituicao de Liskov
 
         toda classe deve ser substituivel pela sua classe/interface pai.
 
